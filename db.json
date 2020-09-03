@@ -1,0 +1,17 @@
+{
+    "customers" : [
+    {
+        "name": "John Doe",
+        "phone":8789100593,
+        "address":"123 littlee winchig",
+        "Membership":"platinum",
+        "id":1
+    },
+    {
+        "name": "Mary Doe",
+        "phone":8817513777,
+        "address":"123 littlee winchig",
+        "Membership":"gold",
+        "id":2
+    }]
+}
